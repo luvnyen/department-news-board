@@ -1,6 +1,6 @@
 # Department News Board
 
-A service where students can add, view, search, and download news made by <b>Calvert Tanudihardjo (NRP: C14190033)</b> for the Service Oriented Architecture course at Petra Christian University.
+A service where users can add, view, search, and download news made by <b>Calvert Tanudihardjo (NRP: C14190033)</b> for the Service Oriented Architecture course at Petra Christian University.
 
 Made using **Go programming language** and **MySQL database** with the following main libraries and frameworks:
 - [Gin Web Framework](https://github.com/gin-gonic/gin)
